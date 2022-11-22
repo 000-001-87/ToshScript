@@ -1,5 +1,5 @@
 # ToshScript
-ToshScript is a basic language that allows more advanced features that Scratch does not have. It also has package building and it is based on the Go Programming Language.
+ToshScript is a basic language that allows more advanced features that Scratch does not have. It also has package building and it is based on the Go Programming Language. It is licensed under the GNU General Public License v3.0.
 ## Compiling it yourself
 ### Requirements
 Go 1.10> (this has been only compiled on Go 1.17 on Linux)
