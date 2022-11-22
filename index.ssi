@@ -1,0 +1,2 @@
+printline , %PackageName
+printline , If you see this, you have successfully compiled ToshScript! Congratulations!
